@@ -1,0 +1,27 @@
+body{
+    color:  #218bb8a3 ;
+}
+a{
+    text-decoration: none;
+}
+div{
+    padding: .25rem;
+    margin: 0rem auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+h2{
+    margin: 0rem 1.25rem;
+}
+/* font-family: 'Pacifico', cursive; */
+h1{
+    text-align: center;
+    color: #218bb8a3;
+}
+nav{
+    height: 90px;
+}
